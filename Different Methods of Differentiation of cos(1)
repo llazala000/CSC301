@@ -96,7 +96,7 @@
     "print(tabulate([[cos, exact_val, derivList[2], AbsErr[2], RelErr[2]]],\n",
     "               headers=['cos(1)','Derivative of cos(1)', 'Three Point Derivative', 'Absolute Error', \"Relative Error\"]))  \n",
     "print(\"\\n\")\n",
-    "\n"
+    "\n",
 
    ]
   },

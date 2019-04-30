@@ -96,12 +96,8 @@
     "print(tabulate([[cos, exact_val, derivList[2], AbsErr[2], RelErr[2]]],\n",
     "               headers=['cos(1)','Derivative of cos(1)', 'Three Point Derivative', 'Absolute Error', \"Relative Error\"]))  \n",
     "print(\"\\n\")\n",
-    "\n",
-    "# I'm not sure I did this one correctly since I don't know what the squiggly E function means in the formula for this \n",
-    "# derivation. I'm sure that missing component contributed to the large absolute error and relative error. \n",
-    "\n",
-    "# There should be a fourth method of derivation but I don't know how to program the other methods and I sort of ran out of \n",
-    "# time. I wanted to do the Lagrange method but I didn't know how to. \n"
+    "\n"
+
    ]
   },
   {
